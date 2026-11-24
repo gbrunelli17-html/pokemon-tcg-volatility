@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="120"></p>
+
 # Pokémon TCG Price Volatility
 
 **Question:** Are new Pokémon TCG sets more volatile than old ones?
