@@ -44,6 +44,10 @@ flowchart LR
     C --> D[Measure volatility]
     D --> E[Compare new vs old sets]
     E --> F[Chart results]
+
+    classDef step fill:#7C3AED,stroke:#34D399,stroke-width:2px,color:#FFFFFF
+    class A,B,C,D,E,F step
+    linkStyle default stroke:#34D399,stroke-width:2px
 ```
 
 ## Progress
